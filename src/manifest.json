@@ -10,7 +10,7 @@
       "matches": [
         "https://www.ciscolive.com/online/connect/*"
       ],
-      "js": ["content.js"]
+      "js": ["content.js", "jquery-2.1.4.min.js"]
     }
   ]
 }
